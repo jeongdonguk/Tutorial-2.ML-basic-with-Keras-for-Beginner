@@ -5,7 +5,7 @@
 
 # 실습해볼 내용
 ### 1. Basic image classification
- 케라스에서 제공하는 fashion_mnist 데이터와 모델들을(Flatten, Dense, softmax) 활용한 이미지 분류 모델을 개발
+ 케라스에서 제공하는 fashion_mnist 데이터와 모델들을(Flatten, Dense, softmax) 활용한 이미지 분류 모델을 개발<br>
   : 간단한 모델의 개발을 통해 케라스에서 제공하는 모델의 사용법과 모델을 구성해보고 결과값을 확인해본다.
 ### 2. Basic text classification
 ### 3. Text classification with TF Hub
