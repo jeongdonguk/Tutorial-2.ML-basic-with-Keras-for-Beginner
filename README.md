@@ -6,8 +6,10 @@
 # 실습해볼 내용
 ### 1. Basic image classification
  케라스에서 제공하는 fashion_mnist 데이터와 모델들을(Flatten, Dense, softmax) 활용한 이미지 분류 모델을 개발<br>
-  : 간단한 모델의 개발을 통해 케라스에서 제공하는 모델의 사용법과 모델을 구성해보고 결과값을 확인해본다.
+  : 모델의 개발을 통해 케라스에서 제공하는 모델의 사용법과 모델을 구성해보고 결과값을 확인해본다.
 ### 2. Basic text classification
+ IMDB에서 가져온 25000개의 영화 리뷰 데이터를 활용하여 리뷰를 긍정과 부정으로 나누는 모델을 개발<br>
+  : 텍스트 데이터의 벡터화에 대해서 알아보고 케라스의 Embedding, GlobalAveragePooling1D 레이어들을 활용한 모델 구성 및 테스트를 진행본다.
 ### 3. Text classification with TF Hub
 ### 4. Regression
 ### 5. Overfit and underfit
