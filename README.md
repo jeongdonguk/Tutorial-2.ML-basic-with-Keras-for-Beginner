@@ -15,6 +15,11 @@
   : TF-hub의 사전학습 모델에 대해 배워보고 적용해보는 시간<br>
    TF-Hub의 주소 : https://tfhub.dev/
 ### 4. Regression
+ 미국, 유럽, 일본의 일부 자동차 정보를 바탕으로 연료 사용량을 예측해보는 회귀 모델을 설계 및 모델의 변수와 layer 수가 예측에 미치는 영향을 확인해 본다.<br>
+  : 1. 단일변수를 활용한 단순 회귀 모델 구성<br>
+  : 2. 다중변수를 활용한 단순 회귀 모델 구성<br>
+  : 3. 단일변수를 활용한 DNN 회귀 모델 구성<br>
+  : 4. 다중변수를 활용한 DNN 회귀 모델 구성
 ### 5. Overfit and underfit
 ### 6. Save and load
 ### 7. Tune hyperparameters with the Keras Tuner
