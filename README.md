@@ -21,6 +21,11 @@
   : 3. 단일변수를 활용한 DNN 회귀 모델 구성<br>
   : 4. 다중변수를 활용한 DNN 회귀 모델 구성
 ### 5. Overfit and underfit
+ 모델의 크기에 따른 epoch에 따른 loss 값의 변화를 확인하며 overfitting 여부를 확인하고 weight 제한과 dropout을 통해 overfitting을 방지해 본다.<br>
+  : 1. 레이어 수의 변화를 주며 layer의 수에 따른 overfitting 정도를 확인해 본다.<br>
+  : 2. L2 정규화를 통한 weight 제한을 통해 overfitting이 해소되는 정도를 확인해본다.<br>
+  : 3. Dropout을 통해 overfitting이 해소되는 정도를 확인해본다.<br>
+  : 4. L2 + Dropout 을 통해 두가지 방식을 함께 사용했을 때의 변화를 확인해본다.
 ### 6. Save and load
 ### 7. Tune hyperparameters with the Keras Tuner
 
