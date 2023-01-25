@@ -27,7 +27,8 @@
   : 3. Dropout을 통해 overfitting이 해소되는 정도를 확인해본다.<br>
   : 4. L2 + Dropout 을 통해 두가지 방식을 함께 사용했을 때의 변화를 확인해본다.
 ### 6. Save and load
+  : 모델을 저장하고 로드하는 방법에 대해 배워본다.
 ### 7. Tune hyperparameters with the Keras Tuner
-
+  : keras tuner의 하나인 Hyperband를 사용하여 learning_rate와 dense layer의 unit 수를 조정하며 최적의 하이퍼파라미터를 찾는 법을 실습해본다.
 ### 스터디를 위해 예제의 일부를 변형하거나 추가적인 코드를 사용될 수 있습니다.
 이 레파지토리에서 실습해볼 예제의 출처는 아래와 같습니다 <br> https://www.tensorflow.org/tutorials
